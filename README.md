@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/Kotlin-3766AB?style=flat-square&logo=Kotlin&logoColor=white"/></a><img src="https://img.shields.io/badge/Android-3766AB?style=flat-square&logo=Android&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Swift-3766AB?style=flat-square&logo=Swift&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/IOS-3766AB?style=flat-square&logo=IOS&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/AndroidStudio-3766AB?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Xcode-3766AB?style=flat-square&logo=Xcode&logoColor=white"/></a>
+  </br>
   <img src="https://img.shields.io/badge/Firebase-3766AB?style=flat-square&logo=Firebase&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-3766AB?style=flat-square&logo=Oracle&logoColor=white"/></a>
 </p>
