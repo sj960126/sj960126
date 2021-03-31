@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Hyunsu Song%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20HyunsuSong%20%20&height=200&fontSize=100)
