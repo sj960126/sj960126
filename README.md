@@ -4,5 +4,5 @@
 </br>
 I'm Hyunsu Song, a junior Android developer Stu.
 </br>
-<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-3765AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
