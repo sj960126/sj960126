@@ -8,6 +8,7 @@ I'm Hyunsu Song, a junior Android developer Stu.
 <img src="https://img.shields.io/badge/Kotlin-3766AB?style=flat-square&logo=Kotlin&logoColor=white"/></a><img src="https://img.shields.io/badge/Android-3766AB?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-3766AB?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/IOS-3766AB?style=flat-square&logo=IOS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-3766AB?style=flat-square&logo=CSS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-3766AB?style=flat-square&logo=HTML&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Firebase-3766AB?style=flat-square&logo=Firebase&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-3766AB?style=flat-square&logo=Oracle&logoColor=white"/></a>
+
 
