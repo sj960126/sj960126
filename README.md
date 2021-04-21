@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/></a>
     <br>
       💻 Stack  </br>  </br> 
-    <https://www.notion.so/sj960126/Andorid-0200f63ff1f045f79e18e09b391162f0>
+    <"https://www.notion.so/sj960126/Andorid-0200f63ff1f045f79e18e09b391162f0">
 
 </p>
 
