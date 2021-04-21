@@ -20,6 +20,8 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
         <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/></a>
     <br>
+    [링크드리스트는 어려워][링크]
+  [링크]: http://linkedlist.com “링크이름”
 </p>
    [Notion](https://www.notion.so/sj960126/Andorid-0200f63ff1f045f79e18e09b391162f0)
 
