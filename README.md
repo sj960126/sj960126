@@ -4,7 +4,6 @@
   👋 Hi there,
   </br>
   I'm Hyunsu Song, a junior Android developer Stu.</br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sj960126&show_icons=true&theme=radical)
   </br>
   💻 Stack  </br>  </br> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -23,6 +22,10 @@
     <br><br>
      📖Document  </br> 
     https://www.notion.so/sj960126/Andorid-0200f63ff1f045f79e18e09b391162f0
+    <br>
+    <br>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sj960126&show_icons=true&theme=radical)
+
 
 </p>
 
