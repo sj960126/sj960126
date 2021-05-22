@@ -24,7 +24,7 @@
     https://www.notion.so/sj960126/Andorid-0200f63ff1f045f79e18e09b391162f0
     <br>
     <br>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sj960126&show_icons=true&theme=radical)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sj960126)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </p>
