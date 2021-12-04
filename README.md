@@ -4,7 +4,7 @@
 </br>
   👋 Hi there,
   </br>
-  I'm Hyunsoo Song, a junior Android developer</br>
+  I'm Hyunsoo Song, a junior Android developer.</br>
   
   </br>
   💻 Stack  </br>  </br> 
