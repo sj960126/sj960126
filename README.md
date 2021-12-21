@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20HyunsuSong%20%20&height=200&fontSize=100)<br>
 👋  Hi there! I'm mobile app developer using Android. 🚀
 <br>
-- ☀️  I’m currently working on Android App Developement.
-- 🌱 I’m currently learning Kotlin.
+
+☀️  I’m currently working on Android App Developement.<br>
+🌱 I’m currently learning Kotlin.
 <br>
 
  💪 **Skills**
