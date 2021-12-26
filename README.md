@@ -3,8 +3,7 @@
 <br>
 
 ☀️  I’m currently working on Android App Developement.<br>
-🌱 I’m currently learning Kotlin.
-<br>
+🌱 I’m currently learning Kotlin. <br>
 
  💪 **Skills**
 <br>
