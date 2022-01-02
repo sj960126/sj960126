@@ -5,7 +5,7 @@
 ☀️  I’m currently working on Android App Developement.<br>
 🌱 I’m currently learning Kotlin. <br>
 
- 💪 **Skills**
+ 💪 **Skill**
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
