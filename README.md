@@ -2,7 +2,7 @@
 👋  Hi there! I'm mobile app developer using Android. 🚀
 <br>
 
-☀️  I’m currently working on Android App Developement.<br>
+☀️ I’m currently working on Android App Developement.<br>
 🌱 I’m currently learning Kotlin. <br>
 
  💪 **Skills**
